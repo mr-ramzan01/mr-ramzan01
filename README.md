@@ -55,8 +55,10 @@
 
 ## My Stats
 <div display="flex" width="100%">
+ <a href="https://github.com/mr-ramzan01">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
+</a>
 </div>
 <br/>
  
@@ -66,10 +68,10 @@
 
 
 <h3>⚙️ GitHub Analytics</h3>
-<a href="https://github.com/mr-ramzan01">
+
   <img height="170em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&theme=buefy&layout=compact" />
-</a>
+
  </div>
 <br/>
 <h3>&nbsp;Visit my portfolio </h3>
