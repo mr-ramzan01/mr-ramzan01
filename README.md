@@ -53,11 +53,11 @@
 
 </td></tr></table>  
 
-## My Stats
-<div display="flex" width="100%">
+## My Github Stats
+<div display="flex" >
  <a href="https://github.com/mr-ramzan01">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
 </a>
 </div>
 <br/>
