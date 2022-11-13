@@ -54,7 +54,7 @@
 </td></tr></table>  
 
 ## My Stats
-<div justify="center" width="100%">
+<div display="flex" width="100%">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
 </div>
