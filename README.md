@@ -63,17 +63,12 @@
 <br/>
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact"/>
+ <a href="https://github.com/mr-ramzan01">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact&theme=radical"/>
+ </a>
 </div>
 
 
-<h3>⚙️ GitHub Analytics</h3>
-
-  <img height="170em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&theme=buefy&layout=compact" />
-
- </div>
-<br/>
 <h3>&nbsp;Visit my portfolio </h3>
 &nbsp;&nbsp;<a href="https://ramzanportfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
