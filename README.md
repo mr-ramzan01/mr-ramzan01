@@ -14,8 +14,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-<br/>
-<br/>
 
 
 ### Frontend  
@@ -65,4 +63,38 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact"/>
 </div>
+
+
+<h3>⚙️ GitHub Analytics</h3>
+<a href="https://github.com/mr-ramzan01">
+  <img height="170em" margin-right="20px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&theme=buefy&layout=compact" />
+</a>
+ </div>
+<br/>
+<h3>&nbsp;Visit my portfolio </h3>
+&nbsp;&nbsp;<a href="https://ramzanportfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&theme=react-dark)](https://github.com/mr-ramzan01/github-readme-activity-graph)
+<br/>
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mr-ramzan01&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mr-ramzan01&theme=onedark)](https://github.com/mr-ramzan01/github-profile-trophy)
+<br/>
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramzan-khan-263b87230/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/mr-ramzan01" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+#### &nbsp;&nbsp; Thank you for visiting my profile.
+
+⭐️ From [Ramzan Khan](https://github.com/mr-ramzan01)
+
 
