@@ -56,22 +56,22 @@
 ## My Github Stats
 <div display="flex" >
  <a href="https://github.com/mr-ramzan01">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10"/>
 </a>
 </div>
 <br/>
  
 <div align="center">
  <a href="https://github.com/mr-ramzan01">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact&border_radius=10"/>
  </a>
 </div>
 <br/>
 
 <div align="center">
  <a href="https://github.com/mr-ramzan01">
-<img src="https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&theme=react-dark"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&border_radius=10"/>
  </a>
 </div>
 <br/>
@@ -79,12 +79,12 @@
 
 <div align="center">
  <a href="https://github.com/mr-ramzan01">
-<img src="https://github-profile-trophy.vercel.app/?username=mr-ramzan01&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mr-ramzan01&border_radius=10"/>
  </a>
 </div>
 
 
-<h3>&nbsp;Visit my portfolio </h3>
+## Visit my portfolio 
 &nbsp;&nbsp;<a href="https://ramzanportfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 ## Connect with me  
