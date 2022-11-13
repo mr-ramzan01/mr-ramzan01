@@ -69,16 +69,21 @@
 </div>
 
 
-<h3>&nbsp;Visit my portfolio </h3>
-&nbsp;&nbsp;<a href="https://ramzanportfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&theme=react-dark)](https://github.com/mr-ramzan01/github-readme-activity-graph)
+[![Ramzan's github activity graph](https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&theme=react-dark)](https://github.com/mr-ramzan01/github-readme-activity-graph)
 <br/>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=mr-ramzan01&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align="center">
+ <a href="https://github.com/mr-ramzan01">
+<img src="https://github-profile-trophy.vercel.app/?username=mr-ramzan01&theme=onedark"/>
+ </a>
+</div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mr-ramzan01&theme=onedark)](https://github.com/mr-ramzan01/github-profile-trophy)
 <br/>
+
+<h3>&nbsp;Visit my portfolio </h3>
+&nbsp;&nbsp;<a href="https://ramzanportfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 ## Connect with me  
 <div align="center">
