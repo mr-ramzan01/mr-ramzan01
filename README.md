@@ -53,7 +53,6 @@
 </div>
 
 </td></tr></table>  
-<br/>
 
 ## My Stats
 <div justify="center">
