@@ -54,9 +54,9 @@
 </td></tr></table>  
 
 ## My Stats
-<div justify="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10"/>
+<div justify="center" width="100%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
 </div>
 <br/>
  
@@ -85,10 +85,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramzan-khan-263b87230/" target="_blank">
+<a href="https://www.linkedin.com/in/ramzan-khan-263b87230/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/mr-ramzan01" target="_blank">
+<a href="https://github.com/mr-ramzan01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
