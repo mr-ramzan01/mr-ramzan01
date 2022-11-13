@@ -56,22 +56,25 @@
 ## My Github Stats
 <div display="flex" >
  <a href="https://github.com/mr-ramzan01">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=onedark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10&theme=onedark"/>
 </a>
 </div>
 <br/>
  
 <div align="center">
  <a href="https://github.com/mr-ramzan01">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ramzan01&layout=compact&theme=onedark"/>
  </a>
 </div>
 
-
+<div align="center">
+ <a href="https://github.com/mr-ramzan01">
+<img src="https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&theme=react-dark"/>
+ </a>
+</div>
 [![Ramzan's github activity graph](https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&theme=react-dark)](https://github.com/mr-ramzan01/github-readme-activity-graph)
-<br/>
-<br/>
+
 
 <div align="center">
  <a href="https://github.com/mr-ramzan01">
