@@ -4,7 +4,10 @@
  <div id="header" align="center" width="60%">
   <img width="70%" align="center" height="auto" src="https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif" width="100"/>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=mr-ramzan01&style=flat-square"/>
+<br/>
+<div align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=mr-ramzan01&style=for-the-badge"/>
+ </div>
 ![profile views](https://komarev.com/ghpvc/?username=mr-ramzan01&style=flat-square)
 <!--  ![codingGif](https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif) -->
 <!--  <div width="60%" align="center"><img align="center" height="auto" width="70%" alt="Github" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif" /></div> -->
