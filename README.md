@@ -19,7 +19,7 @@
 <!--  ![codingGif](https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif) -->
 <!--  <div width="60%" align="center"><img align="center" height="auto" width="70%" alt="Github" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif" /></div> -->
 
-<h3> &nbsp;About Me </h3>  
+<h3> 👩‍💻 &nbsp;About Me </h3>  
 
 - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
 - 🌱 &nbsp; I'm currently studying at [Masai](https://www.masaischool.com/). 
@@ -29,8 +29,9 @@
 - ⚡ Fun fact: Playing guitar, 😄 watching series.
 - 📫 how to reach me.<br/>
  ramzanformasai03@gmail.com
+ <br/>
 
-## Languages & Tools 
+## 🛠 Languages & Tools 
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201891305-bcb6d102-21e2-431a-b323-f68bda9735d9.png" alt="React" height="50" /></a>  
@@ -49,10 +50,10 @@
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" alt="heroku" height="50" /></a>  
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/2400/0*BRl-uL7N9LF-1hiD.png" alt="netlify" height="50" /></a>  
 </div>
+<br/>
 
 
-
-## My Github Stats
+## 🔥 Stats
 <div align="center">
 <div>
 <img valign="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=dark&border_radius=10"/> &nbsp;
@@ -81,13 +82,13 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mr-ramzan01&theme=radical&border_radius=10"/>
  </a>
 </div>
+ <br/>
 
 
 
-
-
-#### &nbsp;&nbsp; Thank you for visiting my profile.
-
-❤️ From [Ramzan Khan](https://github.com/mr-ramzan01)
+ <div align="right">
+ <h3>🙏 Thank you for visiting my profile</h3>
+Show some <img width="35px" height="35px" src="https://user-images.githubusercontent.com/108893444/201913228-f1423099-2920-436b-ae75-05841f601628.gif"/> by looking on my Repositories
+ </div>
 
 
