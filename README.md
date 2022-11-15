@@ -22,7 +22,7 @@
 <h3> 👩‍💻 &nbsp;About Me </h3>  
 
 - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
-- 🌱 &nbsp; I'm currently studying at [Masai](https://www.masaischool.com/). 
+- 🌱 &nbsp; I'm currently learning at [Masai](https://www.masaischool.com/). 
 - 💼 &nbsp; Proficient in MERN Technologies.
 - 👯 &nbsp; Looking to collaborate on projects
 - 💬 &nbsp; Ask me about anything I'm happy to tell.
