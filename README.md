@@ -27,8 +27,7 @@
 - 👯 &nbsp; Looking to collaborate on projects
 - 💬 &nbsp; Ask me about anything I'm happy to tell.
 - ⚡ Fun fact: Playing guitar, 😄 watching series.
-- 📫 how to reach me.
- 
+- 📫 how to reach me.<br/>
  ramzanformasai03@gmail.com
 
 ## Languages & Tools 
@@ -46,7 +45,7 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201889741-def3519e-8d8b-4d39-950d-00ef20ec834d.svg" alt="Express.js" height="50" /></a>  
  <a href="#" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201891796-36f1fec4-4261-4fb4-b744-7095f8dd59c0.png" alt="mongoose.js" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201907576-4058d8d3-5d3c-4e7a-ab1c-97033d4e2a21.png" alt="Redux" height="50" /></a> 
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" alt="heroku" height="50" /></a>  
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/2400/0*BRl-uL7N9LF-1hiD.png" alt="netlify" height="50" /></a>  
 </div>
@@ -56,8 +55,8 @@
 ## My Github Stats
 <div align="center">
 <div>
-<img valign="top" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=dark&border_radius=10"/>
-<img valign="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&theme=dark&border_radius=10"/>
+<img valign="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=dark&border_radius=10"/>
+<img valign="top" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&theme=dark&border_radius=10"/>
 </div>
 </div>
 <br/>
