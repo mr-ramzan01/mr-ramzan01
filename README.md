@@ -54,12 +54,14 @@
 </td></tr></table>  
 
 ## My Github Stats
-<div display="flex" width="100%  align="justify">
+<div align="center">
+ <div style="display: flex;">
  <a href="https://github.com/mr-ramzan01">
 <img src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&border_radius=10"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10"/>
 </a>
 </div>
+ </div>
 <br/>
  
 <div align="center">
