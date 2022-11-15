@@ -27,45 +27,26 @@
 - ⚡ Fun fact: Passion for coding, enjoy playing guitar and watching series.
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-
-### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201891305-bcb6d102-21e2-431a-b323-f68bda9735d9.png" alt="React" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201886458-a4e1eed9-e31e-460c-9913-c4fff0c417d5.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201888387-482ed202-5f39-4206-995d-9b6c40b9f743.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-
-
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
+ <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201889944-c9243ab4-5b08-4b9b-a276-798d02a22092.png" alt="Chakra UI" height="50" /></a> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201893422-3265b0c9-5d13-4fbd-9004-f84c679b1d6d.jpg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201892729-ef1601af-4253-412e-991e-1d018256d756.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201889741-def3519e-8d8b-4d39-950d-00ef20ec834d.svg" alt="Express.js" height="50" /></a>  
+ <a href="#" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/108893444/201891796-36f1fec4-4261-4fb4-b744-7095f8dd59c0.png" alt="mongoose.js" height="50" /></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">    
 <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" alt="heroku" height="50" /></a>  
 <a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/2400/0*BRl-uL7N9LF-1hiD.png" alt="netlify" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+
 
 ## My Github Stats
 <div align="center">
