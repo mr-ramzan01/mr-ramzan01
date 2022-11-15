@@ -1,8 +1,8 @@
 
 <h2> Hey there! 👋 I'm Ramzan Khan.</h2>
  <br/>
- <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif" width="100"/>
+ <div id="header" align="center" width="60%">
+  <img width="70%" align="center" height="auto" src="https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif" width="100"/>
 </div>
 <!--  ![codingGif](https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif) -->
 <!--  <div width="60%" align="center"><img align="center" height="auto" width="70%" alt="Github" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif" /></div> -->
