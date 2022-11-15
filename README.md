@@ -54,11 +54,12 @@
 </td></tr></table>  
 
 ## My Github Stats
-
-<div >
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&border_radius=10"/>
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10"/>
- </div>
+<table>
+<tr>
+<img valign="top" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&border_radius=10"/>
+<img valign="top" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&border_radius=10"/>
+ </tr>
+ </table>
 <br/>
  
 <div align="center">
