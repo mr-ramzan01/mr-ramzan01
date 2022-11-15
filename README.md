@@ -55,8 +55,8 @@
 ## My Github Stats
 <div align="center">
 <div>
-<img valign="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=dark&border_radius=10"/>
-<img valign="top" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&theme=dark&border_radius=10"/>
+<img valign="top" width="400px" src="https://github-readme-stats.vercel.app/api?username=mr-ramzan01&show_icons=true&theme=dark&border_radius=10"/> &nbsp;
+<img valign="top" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ramzan01&theme=dark&border_radius=10"/> &nbsp;
 </div>
 </div>
 <br/>
