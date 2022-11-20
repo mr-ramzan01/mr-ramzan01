@@ -25,7 +25,7 @@
 - 🌱 &nbsp; I'm currently learning at [Masai](https://www.masaischool.com/). 
 - 💼 &nbsp; Proficient in MERN Technologies.
 - 👯 &nbsp; Looking to collaborate on projects
-- 💬 &nbsp; Ask me about anything I'm happy to tell.
+- 💬 &nbsp; Ask me about MERN I'm happy to tell.
 - ⚡ Fun fact: Playing guitar, 😄 watching series.
 - 📫 how to reach me.<br/>
  ramzanformasai03@gmail.com
