@@ -6,16 +6,16 @@
 </div>
 <br/>
 <div id="badges" align="center">
-  <a href="https://ramzanportfolio.netlify.app/">
+  <a href="https://ramzan-khan.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
  <a href="https://www.linkedin.com/in/ramzan-khan-263b87230/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a/>
 </div>
-<div align="center">
+<!-- <div align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=mr-ramzan01&style=for-the-badge&color=orange"/>
- </div>
+ </div> -->
 <!--  ![codingGif](https://user-images.githubusercontent.com/108893444/201870868-7549fd1c-f319-4fdb-9521-b14481fdf8a0.gif) -->
 <!--  <div width="60%" align="center"><img align="center" height="auto" width="70%" alt="Github" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif" /></div> -->
 
