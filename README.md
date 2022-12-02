@@ -9,7 +9,7 @@
   <a href="https://ramzan-khan.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/ramzan-khan-263b87230/">
+ <a href="https://www.linkedin.com/in/ramzan01/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a/>
 </div>
