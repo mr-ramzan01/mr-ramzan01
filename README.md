@@ -69,12 +69,12 @@
 </div>
 <br/>
 
-<div align="center">
+<!-- <div align="center">
  <a href="https://github.com/mr-ramzan01">
 <img src="https://activity-graph.herokuapp.com/graph?username=mr-ramzan01&border_radius=10"/>
  </a>
 </div>
-<br/>
+<br/> -->
 
 
 <div align="center">
